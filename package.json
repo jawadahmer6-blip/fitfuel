@@ -1,0 +1,10 @@
+{
+  "name": "fit-fuel-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "FIT FUEL website + API + admin on Netlify (Functions + Netlify Database)",
+  "dependencies": {
+    "@netlify/database": "^2.0.1"
+  }
+}
